@@ -1,0 +1,1775 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.landing-pagedesktop-vp3 {
+  width: 100%;
+  height: 738.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.landing-pagedesktop-vp3 .auto-group-ut83-7Nj {
+  width: 144rem;
+  height: 123.1rem;
+  position: absolute;
+  left: 0;
+  top: 139.6rem;
+}
+.landing-pagedesktop-vp3 .auto-group-ut83-7Nj .rectangle-5-j2j {
+  width: 144rem;
+  height: 109.1rem;
+  position: absolute;
+  left: 0;
+  top: 14rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-pagedesktop-vp3 .auto-group-ut83-7Nj .line-2-q5m {
+  width: 28.3rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 78rem;
+  top: 69.3rem;
+  background-color: #ffffff;
+}
+.landing-pagedesktop-vp3 .auto-group-ut83-7Nj .line-6-L2X {
+  width: 19.4669rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 86.8rem;
+  top: 42.8rem;
+  background-color: #ffffff;
+}
+.landing-pagedesktop-vp3 .auto-group-ut83-7Nj .line-3-f4o {
+  width: 19.3rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 32.7rem;
+  top: 41.4rem;
+  background-color: #ffffff;
+}
+.landing-pagedesktop-vp3 .auto-group-ut83-7Nj .line-4-C4j {
+  width: 19.3rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 32.7rem;
+  top: 41.4rem;
+  background-color: #ffffff;
+}
+.landing-pagedesktop-vp3 .auto-group-ut83-7Nj .line-5-7Sb {
+  width: 18.6166rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 32.4rem;
+  top: 60.637rem;
+  background-color: #ffffff;
+}
+.landing-pagedesktop-vp3 .auto-group-ut83-7Nj .ellipse-4-RTH {
+  width: 20rem;
+  height: 20rem;
+  position: absolute;
+  left: 14.8rem;
+  top: 63.5rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-4-bg.png');
+  border-radius: 10rem;
+}
+.landing-pagedesktop-vp3 .auto-group-ut83-7Nj .ellipse-3-Gyh {
+  width: 20rem;
+  height: 20rem;
+  position: absolute;
+  left: 15rem;
+  top: 30.3rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-3-bg.png');
+  border-radius: 10rem;
+}
+.landing-pagedesktop-vp3 .auto-group-ut83-7Nj .ellipse-5-P2j {
+  width: 20rem;
+  height: 20rem;
+  position: absolute;
+  left: 105rem;
+  top: 72.8rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-5-bg.png');
+  border-radius: 10rem;
+}
+.landing-pagedesktop-vp3 .auto-group-ut83-7Nj .item-337566868106646-1-gnX {
+  width: 46.7127rem;
+  height: 46.8036rem;
+  position: absolute;
+  left: 41.5797rem;
+  top: 37.2153rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-pagedesktop-vp3 .auto-group-ut83-7Nj .ellipse-7-zYK {
+  width: 20rem;
+  height: 20rem;
+  position: absolute;
+  left: 105rem;
+  top: 30.3rem;
+  background-color: #ffffff;
+  border-radius: 10rem;
+}
+.landing-pagedesktop-vp3 .auto-group-ut83-7Nj .ellipse-6-hSj {
+  width: 20rem;
+  height: 20rem;
+  position: absolute;
+  left: 105rem;
+  top: 30.2rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-6-bg.png');
+  border-radius: 10rem;
+}
+.landing-pagedesktop-vp3 .auto-group-ut83-7Nj .web-development-DAB {
+  width: 18.1rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 17.7rem;
+  top: 51rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-pagedesktop-vp3 .auto-group-ut83-7Nj .you-will-learn-web-development-from-the-best-tutor-sEj {
+  width: 23.9rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 15.4rem;
+  top: 53.8rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.landing-pagedesktop-vp3 .auto-group-ut83-7Nj .youtube-monetization-Lu1 {
+  width: 23.1rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 15.65rem;
+  top: 85.2rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-pagedesktop-vp3 .auto-group-ut83-7Nj .you-will-learn-web-development-from-the-best-tutor-pJP {
+  width: 23.9rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 15.4rem;
+  top: 88rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.landing-pagedesktop-vp3 .auto-group-ut83-7Nj .application-deveploment-h7H {
+  width: 26.4rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 101.25rem;
+  top: 94.2rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-pagedesktop-vp3 .auto-group-ut83-7Nj .you-will-get-to-learn-how-to-design-mobile-app-both-android-and-ios-PVu {
+  width: 26rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 101.55rem;
+  top: 97.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.landing-pagedesktop-vp3 .auto-group-ut83-7Nj .mini-importation-reP {
+  width: 17.1rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 59.85rem;
+  top: 111.3rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-pagedesktop-vp3 .auto-group-ut83-7Nj .you-will-learn-how-to-do-mini-importation-from-an-expert-A9H {
+  width: 21.5rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 57.8rem;
+  top: 114.1rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.landing-pagedesktop-vp3 .auto-group-ut83-7Nj .graphics-3Ty {
+  width: 10.7rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 110.5rem;
+  top: 50.9rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-pagedesktop-vp3 .auto-group-ut83-7Nj .you-will-learn-how-to-design-like-a-pro-wpF {
+  width: 17.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 107.1rem;
+  top: 53.5rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.landing-pagedesktop-vp3 .auto-group-ut83-7Nj .ellipse-8-qPq {
+  width: 20rem;
+  height: 20rem;
+  position: absolute;
+  left: 57.2rem;
+  top: 89.4rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-8-bg.png');
+  border-radius: 10rem;
+}
+.landing-pagedesktop-vp3 .auto-group-ut83-7Nj .ellipse-12-XnT {
+  width: 81rem;
+  height: 26.8rem;
+  position: absolute;
+  left: 55.8rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-pagedesktop-vp3 .auto-group-h1zm-eMH {
+  box-sizing: border-box;
+  padding-bottom: 5.6rem;
+  width: 144rem;
+  height: 139.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.landing-pagedesktop-vp3 .auto-group-h1zm-eMH .auto-group-a2fd-vZh {
+  margin: 0rem 0.1rem 1.8rem 0rem;
+  width: 143.9rem;
+  height: 82.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.landing-pagedesktop-vp3 .auto-group-h1zm-eMH .auto-group-a2fd-vZh .rectangle-1-QUs {
+  width: 143.9rem;
+  height: 66.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-pagedesktop-vp3 .auto-group-h1zm-eMH .auto-group-a2fd-vZh .ellipse-1-Kbq {
+  width: 74.6rem;
+  height: 65rem;
+  position: absolute;
+  left: 58.8rem;
+  top: 12.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-pagedesktop-vp3 .auto-group-h1zm-eMH .auto-group-a2fd-vZh .group-2-r5y {
+  width: 10.1rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 121rem;
+  top: 5.1rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #51fa7b;
+  border-radius: 0.8rem;
+  box-shadow: 0 0.2rem 0.2rem rgba(0, 0, 0, 0.150000006);
+}
+.landing-pagedesktop-vp3 .auto-group-h1zm-eMH .auto-group-a2fd-vZh .group-1-F87 {
+  width: 10.1rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 109.8rem;
+  top: 5.1rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.3rem rgba(255, 255, 255, 0.5);
+  box-sizing: border-box;
+  border-radius: 0.8rem;
+}
+.landing-pagedesktop-vp3 .auto-group-h1zm-eMH .auto-group-a2fd-vZh .peritia-endeavors-to-support-the-growth-and-improvement-of-diverse-skills-in-its-users-through-the-provision-of-activities-that-demand-particular-expertise-or-knowledge-it-aims-to-inspire-individuals-to-acquire-fresh-skills-enhance-existing-ones-and-accumulate-valuable-experience-additionally-peritia-serves-as-a-digital-marketplace-connecting-with-a-broad-audience-and-offering-a-platform-for-the-exchange-of-products-and-services-to-potential-consumers-5sq {
+  width: 36.4rem;
+  height: 40.1rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 17.1rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.landing-pagedesktop-vp3 .auto-group-h1zm-eMH .auto-group-a2fd-vZh .group-5-NkT {
+  width: 19.9rem;
+  height: 5.3rem;
+  position: absolute;
+  left: 12.6rem;
+  top: 60.3rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #51fa7b;
+  border-radius: 1.2rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(142, 150, 142, 0.150000006);
+}
+.landing-pagedesktop-vp3 .auto-group-h1zm-eMH .auto-group-a2fd-vZh .our-services-CzP {
+  width: 23.1rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 60.7rem;
+  top: 76.8rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #0c3436;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-pagedesktop-vp3 .auto-group-h1zm-eMH .auto-group-a2fd-vZh .item-71407393516835-1-7bZ {
+  width: 62.0519rem;
+  height: 55.478rem;
+  position: absolute;
+  left: 66.648rem;
+  top: 14.7199rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-pagedesktop-vp3 .auto-group-h1zm-eMH .auto-group-a2fd-vZh .operating-procedure-cHR {
+  width: 22.2rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 31.7rem;
+  top: 5.1rem;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #fafafa;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-pagedesktop-vp3 .auto-group-h1zm-eMH .auto-group-a2fd-vZh .e-book-7EB {
+  width: 7.8rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 57.7rem;
+  top: 5.1rem;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #fafafa;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-pagedesktop-vp3 .auto-group-h1zm-eMH .auto-group-a2fd-vZh .coupons-pPV {
+  width: 9.6rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 88.2031rem;
+  top: 5.1rem;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #fafafa;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-pagedesktop-vp3 .auto-group-h1zm-eMH .auto-group-a2fd-vZh .group-6-vBd {
+  width: 15.1031rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 69.3rem;
+  top: 5.1rem;
+}
+.landing-pagedesktop-vp3 .auto-group-h1zm-eMH .auto-group-a2fd-vZh .group-6-vBd .top-earners-r5H {
+  width: 13.3rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #fafafa;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-pagedesktop-vp3 .auto-group-h1zm-eMH .auto-group-a2fd-vZh .group-6-vBd .polygon-1-Mnj {
+  width: 2.0234rem;
+  height: 1.4337rem;
+  position: absolute;
+  left: 13.0796rem;
+  top: 0.8159rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-pagedesktop-vp3 .auto-group-h1zm-eMH .auto-group-a2fd-vZh .polygon-2-t1y {
+  width: 2.0138rem;
+  height: 1.4198rem;
+  position: absolute;
+  left: 98.5rem;
+  top: 5.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-pagedesktop-vp3 .auto-group-h1zm-eMH .auto-group-a2fd-vZh .peritia-logo-icon-1-1-PjR {
+  width: 5.5rem;
+  height: 7.1rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 5.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.landing-pagedesktop-vp3 .auto-group-h1zm-eMH .our-aim-is-to-provide-services-that-allow-user-to-discover-their-hidden-potential-VnT {
+  margin-bottom: 0.6rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-pagedesktop-vp3 .auto-group-h1zm-eMH .auto-group-bc11-aou {
+  margin: 0rem 10.7rem 0rem 12.8rem;
+  width: calc(100% - 23.5rem);
+  height: 48.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-pagedesktop-vp3 .auto-group-h1zm-eMH .auto-group-bc11-aou .frame-4-5Es {
+  margin: 0.1rem 1.15rem 0rem 0rem;
+  box-sizing: border-box;
+  padding-top: 1.931rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-pagedesktop-vp3 .auto-group-h1zm-eMH .auto-group-bc11-aou .frame-4-5Es .item-229088866736637-1-ahR {
+  margin: 0rem 0rem 2.32rem 0rem;
+  width: 30.6892rem;
+  height: 26.2489rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-pagedesktop-vp3 .auto-group-h1zm-eMH .auto-group-bc11-aou .frame-4-5Es .skill-acquisition-GaF {
+  margin-bottom: 1rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-pagedesktop-vp3 .auto-group-h1zm-eMH .auto-group-bc11-aou .frame-4-5Es .the-process-of-learning-and-developing-abilities-that-are-valuable-in-various-aspects-of-life-including-personal-growth-career-advancement-and-overall-well-being-BBR {
+  max-width: 39.4rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-pagedesktop-vp3 .auto-group-h1zm-eMH .auto-group-bc11-aou .frame-6-cXd {
+  margin: 0rem 2.45rem 0.1rem 0rem;
+  box-sizing: border-box;
+  padding-top: 0.7996rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-pagedesktop-vp3 .auto-group-h1zm-eMH .auto-group-bc11-aou .frame-6-cXd .item-91480184086495-1-LCj {
+  margin: 0rem 0.364rem 2.374rem 0rem;
+  width: 31.468rem;
+  height: 27.3266rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-pagedesktop-vp3 .auto-group-h1zm-eMH .auto-group-bc11-aou .frame-6-cXd .e-book-store-buM {
+  margin-bottom: 1rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-pagedesktop-vp3 .auto-group-h1zm-eMH .auto-group-bc11-aou .frame-6-cXd .the-era-where-publishers-faced-challenges-in-finding-outlets-for-their-books-is-now-a-thing-of-the-past-peritia-is-offering-a-platform-that-enables-publishers-to-market-and-sell-their-books-to-a-wide-audience-KKZ {
+  max-width: 40.7rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-pagedesktop-vp3 .auto-group-h1zm-eMH .auto-group-bc11-aou .frame-5-Mn3 {
+  margin: 1.3rem 0rem 3.3rem 0rem;
+  box-sizing: border-box;
+  padding-top: 1.1026rem;
+  height: calc(100% - 4.6rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-pagedesktop-vp3 .auto-group-h1zm-eMH .auto-group-bc11-aou .frame-5-Mn3 .item-194668106134223-1-sEb {
+  margin: 0rem 0rem 1.253rem 0rem;
+  width: 29.8421rem;
+  height: 27.144rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-pagedesktop-vp3 .auto-group-h1zm-eMH .auto-group-bc11-aou .frame-5-Mn3 .bazaar-9hu {
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-pagedesktop-vp3 .auto-group-h1zm-eMH .auto-group-bc11-aou .frame-5-Mn3 .a-marketplace-is-a-location-physical-or-digital-where-buyers-and-sellers-come-together-to-engage-in-the-exchange-of-goods-services-or-information-HJK {
+  max-width: 36.8rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-pagedesktop-vp3 .why-peritia-is-the-best-jg7 {
+  width: 42.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 51.6rem;
+  top: 270.8rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  text-transform: capitalize;
+  color: #0c3436;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-pagedesktop-vp3 .auto-group-xzu7-SKd {
+  box-sizing: border-box;
+  padding: 6.7rem 8.7rem 6.3rem 12.7rem;
+  width: 144rem;
+  height: 95.9rem;
+  position: absolute;
+  left: 0;
+  top: 281.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.landing-pagedesktop-vp3 .auto-group-xzu7-SKd .auto-group-wmdu-7Rm {
+  margin-bottom: 16.1rem;
+  box-sizing: border-box;
+  padding: 16.2rem 3.583rem 3.2rem 3.8rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  background-color: #000000;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.landing-pagedesktop-vp3 .auto-group-xzu7-SKd .auto-group-wmdu-7Rm .polygon-4-oZV {
+  margin-right: 1.1rem;
+  width: 4.1rem;
+  height: 4.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-pagedesktop-vp3 .auto-group-xzu7-SKd .auto-group-wmdu-7Rm .auto-group-bd55-iwM {
+  margin: 0rem 1.7rem 0.7rem 0rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-pagedesktop-vp3 .auto-group-xzu7-SKd .auto-group-wmdu-7Rm .auto-group-bd55-iwM .auto-group-uinx-eKD {
+  margin: 0rem 13.6rem 18.3rem 0rem;
+  width: 13.9rem;
+  height: 13.9rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-pagedesktop-vp3 .auto-group-xzu7-SKd .auto-group-wmdu-7Rm .auto-group-bd55-iwM .auto-group-jumh-kd9 {
+  width: 73rem;
+  height: 3.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-pagedesktop-vp3 .auto-group-xzu7-SKd .auto-group-wmdu-7Rm .item-00-00-Hd5 {
+  margin: 0rem 5.5rem 0.9rem 0rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  text-transform: uppercase;
+  color: #fbfbfb;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-pagedesktop-vp3 .auto-group-xzu7-SKd .auto-group-wmdu-7Rm .auto-group-gbbr-o5d {
+  margin: 0rem 6.628rem 1.1rem 0rem;
+  width: 7.9rem;
+  height: 2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-pagedesktop-vp3 .auto-group-xzu7-SKd .auto-group-wmdu-7Rm .maximize-svgrepo-com-1-iiP {
+  margin: 0rem 2.612rem 0.484rem 0rem;
+  width: 3.3438rem;
+  height: 3.344rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-pagedesktop-vp3 .auto-group-xzu7-SKd .auto-group-wmdu-7Rm .enlarge-svgrepo-com-2-2yy {
+  margin-bottom: 0.7333rem;
+  width: 3.1333rem;
+  height: 2.9333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-pagedesktop-vp3 .auto-group-xzu7-SKd .faq-YBd {
+  margin: 0rem 4.1rem 2.5rem 0rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  text-transform: capitalize;
+  color: #0c3436;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-pagedesktop-vp3 .auto-group-xzu7-SKd .we-are-aware-that-you-may-have-inquiries-youd-like-to-pose-to-us-here-youll-find-a-compilation-of-commonly-asked-questions-ekT {
+  margin-right: 4.9rem;
+  max-width: 83.7rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-pagedesktop-vp3 .auto-group-ywi7-Ja7 {
+  width: 144rem;
+  height: 151.6204rem;
+  position: absolute;
+  left: 0;
+  top: 553.0796rem;
+}
+.landing-pagedesktop-vp3 .auto-group-ywi7-Ja7 .connect-with-us-Qt3 {
+  width: 35.6rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 54.2rem;
+  top: 43.4204rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  text-transform: capitalize;
+  color: #0c3436;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-pagedesktop-vp3 .auto-group-ywi7-Ja7 .auto-group-s9g7-XBy {
+  width: 92.2rem;
+  height: 8.1143rem;
+  position: absolute;
+  left: 29rem;
+  top: 49.2274rem;
+}
+.landing-pagedesktop-vp3 .auto-group-ywi7-Ja7 .auto-group-s9g7-XBy .feel-free-to-contact-us-through-any-of-the-following-channels-for-quick-and-convenient-assistance-whether-you-prefer-email-phone-calls-or-social-media-we-are-readily-accessible-to-address-your-inquiries-and-provide-support-enP {
+  width: 90.9rem;
+  height: 6.6rem;
+  position: absolute;
+  left: 0;
+  top: 0.393rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.landing-pagedesktop-vp3 .auto-group-ywi7-Ja7 .auto-group-s9g7-XBy .icon-set-filled-Tjq {
+  width: 4.2rem;
+  height: 8.1143rem;
+  position: absolute;
+  left: 88rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-pagedesktop-vp3 .auto-group-ywi7-Ja7 .auto-group-7k2b-o31 {
+  width: 110.7rem;
+  height: 65.2rem;
+  position: absolute;
+  left: 12.6rem;
+  top: 59.0204rem;
+  display: flex;
+  align-items: flex-start;
+}
+.landing-pagedesktop-vp3 .auto-group-ywi7-Ja7 .auto-group-7k2b-o31 .auto-group-nlmq-7ZV {
+  margin-right: 17.5rem;
+  width: 26.9rem;
+  height: 59.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.landing-pagedesktop-vp3 .auto-group-ywi7-Ja7 .auto-group-7k2b-o31 .auto-group-nlmq-7ZV .rectangle-29-DsR {
+  width: 26.9rem;
+  height: 50.4rem;
+  position: absolute;
+  left: 0;
+  top: 8.7rem;
+  border: solid 0.3rem #0c3436;
+  box-sizing: border-box;
+}
+.landing-pagedesktop-vp3 .auto-group-ywi7-Ja7 .auto-group-7k2b-o31 .auto-group-nlmq-7ZV .ellipse-15-9FH {
+  width: 13.6rem;
+  height: 13.6rem;
+  position: absolute;
+  left: 6.6rem;
+  top: 0;
+  border: solid 0.3rem #0c3436;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 6.8rem;
+}
+.landing-pagedesktop-vp3 .auto-group-ywi7-Ja7 .auto-group-7k2b-o31 .auto-group-nlmq-7ZV .you-can-connect-us-by-messaging-us-on-our-social-media-TFy {
+  width: 20.6rem;
+  height: 12.2rem;
+  position: absolute;
+  left: 3.1rem;
+  top: 18.6rem;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2102272797;
+  text-transform: capitalize;
+  color: #0c3436;
+  font-family: Inter, 'Source Sans Pro';
+}
+.landing-pagedesktop-vp3 .auto-group-ywi7-Ja7 .auto-group-7k2b-o31 .auto-group-nlmq-7ZV .you-can-connect-us-by-messaging-us-on-our-social-media-TFy .you-can-connect-us-by-messaging-us-on-our-social-media-TFy-sub-0 {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-transform: capitalize;
+  color: #0c3436;
+  font-family: Inter, 'Source Sans Pro';
+}
+.landing-pagedesktop-vp3 .auto-group-ywi7-Ja7 .auto-group-7k2b-o31 .auto-group-nlmq-7ZV .you-can-connect-us-by-messaging-us-on-our-social-media-TFy .you-can-connect-us-by-messaging-us-on-our-social-media-TFy-sub-1 {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-transform: capitalize;
+  color: #0c3436;
+  font-family: Inter, 'Source Sans Pro';
+}
+.landing-pagedesktop-vp3 .auto-group-ywi7-Ja7 .auto-group-7k2b-o31 .auto-group-nlmq-7ZV .facebook-svgrepo-com-1-FDm {
+  width: 3.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 1.7rem;
+  top: 32.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-pagedesktop-vp3 .auto-group-ywi7-Ja7 .auto-group-7k2b-o31 .auto-group-nlmq-7ZV .youtube-svgrepo-com-1-yfZ {
+  width: 3.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 38.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-pagedesktop-vp3 .auto-group-ywi7-Ja7 .auto-group-7k2b-o31 .auto-group-nlmq-7ZV .telegram-communication-chat-interaction-network-connection-svgrepo-com-1-Jhq {
+  width: 2.9846rem;
+  height: 2.4665rem;
+  position: absolute;
+  left: 1.6077rem;
+  top: 48.9667rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-pagedesktop-vp3 .auto-group-ywi7-Ja7 .auto-group-7k2b-o31 .auto-group-nlmq-7ZV .peritiaofficial-bwq {
+  width: 15.4rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 6.9rem;
+  top: 32.8rem;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #0c3436;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-pagedesktop-vp3 .auto-group-ywi7-Ja7 .auto-group-7k2b-o31 .auto-group-nlmq-7ZV .peritiaofficial-uhd {
+  width: 15.4rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 6.9rem;
+  top: 38.2rem;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #0c3436;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-pagedesktop-vp3 .auto-group-ywi7-Ja7 .auto-group-7k2b-o31 .auto-group-nlmq-7ZV .peritiaofficial-RAB {
+  width: 15.4rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 6.9rem;
+  top: 43.6rem;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #0c3436;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-pagedesktop-vp3 .auto-group-ywi7-Ja7 .auto-group-7k2b-o31 .auto-group-nlmq-7ZV .peritiaofficial-XU7 {
+  width: 15.4rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 6.4rem;
+  top: 48.5rem;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #0c3436;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-pagedesktop-vp3 .auto-group-ywi7-Ja7 .auto-group-7k2b-o31 .auto-group-nlmq-7ZV .peritiaofficial-qzb {
+  width: 15.4rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 6.4rem;
+  top: 53.9rem;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #0c3436;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-pagedesktop-vp3 .auto-group-ywi7-Ja7 .auto-group-7k2b-o31 .auto-group-nlmq-7ZV .instagram-1-svgrepo-com-1-AGB {
+  width: 2.8rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 1.9rem;
+  top: 53.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-pagedesktop-vp3 .auto-group-ywi7-Ja7 .auto-group-7k2b-o31 .auto-group-yvef-swH {
+  margin: 23.5rem 12.5rem 0rem 0rem;
+  width: 26.9rem;
+  height: 41.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.landing-pagedesktop-vp3 .auto-group-ywi7-Ja7 .auto-group-7k2b-o31 .auto-group-yvef-swH .rectangle-28-Pej {
+  width: 26.9rem;
+  height: 34.9rem;
+  position: absolute;
+  left: 0;
+  top: 6.8rem;
+  border: solid 0.3rem #51fa7b;
+  box-sizing: border-box;
+}
+.landing-pagedesktop-vp3 .auto-group-ywi7-Ja7 .auto-group-7k2b-o31 .auto-group-yvef-swH .ellipse-13-vPm {
+  width: 13.6rem;
+  height: 13.6rem;
+  position: absolute;
+  left: 6.4rem;
+  top: 0;
+  border: solid 0.3rem #51fa7b;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 6.8rem;
+}
+.landing-pagedesktop-vp3 .auto-group-ywi7-Ja7 .auto-group-7k2b-o31 .auto-group-yvef-swH .you-can-connect-to-our-customer-service-through-a-call-24-7-service-dJB {
+  width: 22.6rem;
+  height: 15.2rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 16.7rem;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2102272797;
+  text-transform: capitalize;
+  color: #51fa7b;
+  font-family: Inter, 'Source Sans Pro';
+}
+.landing-pagedesktop-vp3 .auto-group-ywi7-Ja7 .auto-group-7k2b-o31 .auto-group-yvef-swH .you-can-connect-to-our-customer-service-through-a-call-24-7-service-dJB .you-can-connect-to-our-customer-service-through-a-call-24-7-service-dJB-sub-0 {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-transform: capitalize;
+  color: #51fa7b;
+  font-family: Inter, 'Source Sans Pro';
+}
+.landing-pagedesktop-vp3 .auto-group-ywi7-Ja7 .auto-group-7k2b-o31 .auto-group-yvef-swH .you-can-connect-to-our-customer-service-through-a-call-24-7-service-dJB .you-can-connect-to-our-customer-service-through-a-call-24-7-service-dJB-sub-1 {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-transform: capitalize;
+  color: #51fa7b;
+  font-family: Inter, 'Source Sans Pro';
+}
+.landing-pagedesktop-vp3 .auto-group-ywi7-Ja7 .auto-group-7k2b-o31 .auto-group-yvef-swH .telephone-svgrepo-com-1-rKM {
+  width: 3.2rem;
+  height: 2.4889rem;
+  position: absolute;
+  left: 1.7rem;
+  top: 34.7556rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-pagedesktop-vp3 .auto-group-ywi7-Ja7 .auto-group-7k2b-o31 .auto-group-yvef-swH .item-08060357754-nD1 {
+  width: 17rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 7.3rem;
+  top: 34.8rem;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #51fa7b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-pagedesktop-vp3 .auto-group-ywi7-Ja7 .auto-group-7k2b-o31 .auto-group-cpqr-fnb {
+  width: 26.9rem;
+  height: 39.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.landing-pagedesktop-vp3 .auto-group-ywi7-Ja7 .auto-group-7k2b-o31 .auto-group-cpqr-fnb .rectangle-30-bw9 {
+  width: 26.9rem;
+  height: 31.4rem;
+  position: absolute;
+  left: 0;
+  top: 8rem;
+  border: solid 0.3rem #0c3436;
+  box-sizing: border-box;
+}
+.landing-pagedesktop-vp3 .auto-group-ywi7-Ja7 .auto-group-7k2b-o31 .auto-group-cpqr-fnb .ellipse-16-XK1 {
+  width: 13.6rem;
+  height: 13.9rem;
+  position: absolute;
+  left: 6.7rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-pagedesktop-vp3 .auto-group-ywi7-Ja7 .auto-group-7k2b-o31 .auto-group-cpqr-fnb .you-can-chat-with-a-customer-service-and-get-and-instant-reply-any-time-rs5 {
+  width: 23.9rem;
+  height: 12.2rem;
+  position: absolute;
+  left: 1.05rem;
+  top: 17.5rem;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2102272797;
+  text-transform: capitalize;
+  color: #0c3436;
+  font-family: Inter, 'Source Sans Pro';
+}
+.landing-pagedesktop-vp3 .auto-group-ywi7-Ja7 .auto-group-7k2b-o31 .auto-group-cpqr-fnb .you-can-chat-with-a-customer-service-and-get-and-instant-reply-any-time-rs5 .you-can-chat-with-a-customer-service-and-get-and-instant-reply-any-time-rs5-sub-0 {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-transform: capitalize;
+  color: #0c3436;
+  font-family: Inter, 'Source Sans Pro';
+}
+.landing-pagedesktop-vp3 .auto-group-ywi7-Ja7 .auto-group-7k2b-o31 .auto-group-cpqr-fnb .you-can-chat-with-a-customer-service-and-get-and-instant-reply-any-time-rs5 .you-can-chat-with-a-customer-service-and-get-and-instant-reply-any-time-rs5-sub-1 {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-transform: capitalize;
+  color: #0c3436;
+  font-family: Inter, 'Source Sans Pro';
+}
+.landing-pagedesktop-vp3 .auto-group-ywi7-Ja7 .auto-group-7k2b-o31 .auto-group-cpqr-fnb .item-08060357754-8CK {
+  width: 17rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 6.5rem;
+  top: 32.9rem;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #0c3436;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-pagedesktop-vp3 .auto-group-ywi7-Ja7 .auto-group-7k2b-o31 .auto-group-cpqr-fnb .whatsapp-128-svgrepo-com-1-pqq {
+  width: 3.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 32.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-pagedesktop-vp3 .auto-group-ywi7-Ja7 .vector-XET {
+  width: 6.2rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 23rem;
+  top: 63.7204rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-pagedesktop-vp3 .auto-group-ywi7-Ja7 .vector-3yV {
+  width: 5.8rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 67rem;
+  top: 86.4204rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-pagedesktop-vp3 .auto-group-ywi7-Ja7 .vector-xaf {
+  width: 5.8rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 107.3rem;
+  top: 63.3204rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-pagedesktop-vp3 .auto-group-ywi7-Ja7 .auto-group-jmpo-gmZ {
+  width: 90.7rem;
+  height: 28.7111rem;
+  position: absolute;
+  left: 32.9rem;
+  top: 2.3204rem;
+}
+.landing-pagedesktop-vp3 .auto-group-ywi7-Ja7 .auto-group-jmpo-gmZ .rectangle-25-QBm {
+  width: 27.9rem;
+  height: 24.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.landing-pagedesktop-vp3 .auto-group-ywi7-Ja7 .auto-group-jmpo-gmZ .rectangle-26-8tT {
+  width: 62.8rem;
+  height: 24.7rem;
+  position: absolute;
+  left: 27.9rem;
+  top: 0;
+  background-color: #b6eec4;
+  border-radius: 1.2rem;
+}
+.landing-pagedesktop-vp3 .auto-group-ywi7-Ja7 .auto-group-jmpo-gmZ .absolutely-each-peritia-user-has-the-opportunity-to-freely-publish-their-own-e-book-on-our-platform-furthermore-users-can-choose-to-become-affiliates-promoting-and-marketing-any-e-book-available-on-our-website-and-in-turn-earn-commissions-for-their-promotional-efforts-directed-towards-individuals-fdV {
+  width: 48.5rem;
+  height: 17rem;
+  position: absolute;
+  left: 32.3rem;
+  top: 7.4rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.landing-pagedesktop-vp3 .auto-group-ywi7-Ja7 .auto-group-jmpo-gmZ .is-it-possible-for-me-to-release-and-market-an-ebook-on-peritia-Snf {
+  width: 49.1rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 32.4rem;
+  top: 1.2rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.landing-pagedesktop-vp3 .auto-group-ywi7-Ja7 .auto-group-jmpo-gmZ .safari-nyambura-Xp7 {
+  width: 15.8rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 74.1rem;
+  top: 21.8rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-pagedesktop-vp3 .auto-group-ywi7-Ja7 .auto-group-jmpo-gmZ .flag-for-flag-kenya-svgrepo-com-1-3XZ {
+  width: 10rem;
+  height: 7.2222rem;
+  position: absolute;
+  left: 20.9rem;
+  top: 21.4889rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-pagedesktop-vp3 .auto-group-ywi7-Ja7 .vector-MYF {
+  width: 2.5001rem;
+  height: 2.55rem;
+  position: absolute;
+  left: 14.6rem;
+  top: 103.0204rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-pagedesktop-vp3 .peritia-was-established-with-a-singular-objective-to-facilitate-individuals-in-acquiring-digital-skills-and-effectively-market-their-products-and-services-to-consumers-5z3 {
+  width: 85.1rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 29.4rem;
+  top: 277rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.landing-pagedesktop-vp3 .auto-group-xx4b-vzf {
+  width: 170.2912rem;
+  height: 175.7796rem;
+  position: absolute;
+  left: 0;
+  top: 377.3rem;
+}
+.landing-pagedesktop-vp3 .auto-group-xx4b-vzf .line-7-QQ3 {
+  width: 168.3912rem;
+  height: 139.9552rem;
+  position: absolute;
+  left: 0;
+  top: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-pagedesktop-vp3 .auto-group-xx4b-vzf .line-11-YWF {
+  width: 168.3912rem;
+  height: 139.9552rem;
+  position: absolute;
+  left: 0;
+  top: 13.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-pagedesktop-vp3 .auto-group-xx4b-vzf .line-8-61y {
+  width: 166.1079rem;
+  height: 137.7565rem;
+  position: absolute;
+  left: 0;
+  top: 22.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-pagedesktop-vp3 .auto-group-xx4b-vzf .line-10-dnb {
+  width: 166.1079rem;
+  height: 137.7565rem;
+  position: absolute;
+  left: 0;
+  top: 33.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-pagedesktop-vp3 .auto-group-xx4b-vzf .line-9-y5m {
+  width: 168.0007rem;
+  height: 127.0796rem;
+  position: absolute;
+  left: 0;
+  top: 48.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-pagedesktop-vp3 .auto-group-xx4b-vzf .rectangle-16-i3M {
+  width: 27.9rem;
+  height: 24.7rem;
+  position: absolute;
+  left: 33.6rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.landing-pagedesktop-vp3 .auto-group-xx4b-vzf .rectangle-20-3rK {
+  width: 27.9rem;
+  height: 24.7rem;
+  position: absolute;
+  left: 33.6rem;
+  top: 43.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.landing-pagedesktop-vp3 .auto-group-xx4b-vzf .rectangle-17-PfH {
+  width: 65.1rem;
+  height: 24.7rem;
+  position: absolute;
+  left: 58.5rem;
+  top: 0;
+  background-color: #b6eec4;
+  border-radius: 1.2rem;
+}
+.landing-pagedesktop-vp3 .auto-group-xx4b-vzf .you-can-join-by-completing-the-sign-up-process-on-our-website-and-youll-be-on-the-path-to-mastering-one-or-more-skill-sets-of-your-preference-XmV {
+  width: 48.5rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 64.4rem;
+  top: 9.1rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.landing-pagedesktop-vp3 .auto-group-xx4b-vzf .how-do-i-register-as-a-user-on-peritia-P31 {
+  width: 44.3rem;
+  height: 3rem;
+  position: absolute;
+  left: 64.4rem;
+  top: 3rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-pagedesktop-vp3 .auto-group-xx4b-vzf .rectangle-19-V63 {
+  width: 64.7rem;
+  height: 24.7rem;
+  position: absolute;
+  left: 58.9rem;
+  top: 43.9rem;
+  background-color: #b6eec4;
+  border-radius: 1.2rem;
+}
+.landing-pagedesktop-vp3 .auto-group-xx4b-vzf .coupon-codes-are-essential-during-the-registration-process-to-activate-accounts-on-peritia-granting-users-access-to-all-functionalities-available-on-the-website-DXq {
+  width: 48.4rem;
+  height: 9.7rem;
+  position: absolute;
+  left: 64.3rem;
+  top: 50.8rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.landing-pagedesktop-vp3 .auto-group-xx4b-vzf .what-are-coupon-code-used-for-GW7 {
+  width: 38.4rem;
+  height: 3rem;
+  position: absolute;
+  left: 63.9rem;
+  top: 46rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-pagedesktop-vp3 .auto-group-xx4b-vzf .chijioke-adegoke-P4w {
+  width: 16.5rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 106.2rem;
+  top: 21.4rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-pagedesktop-vp3 .auto-group-xx4b-vzf .flag-for-flag-nigeria-svgrepo-com-1-5iT {
+  width: 9.9997rem;
+  height: 7.2222rem;
+  position: absolute;
+  left: 53.5rem;
+  top: 19.3889rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-pagedesktop-vp3 .auto-group-xx4b-vzf .rectangle-21-1MD {
+  width: 27.9rem;
+  height: 24.7rem;
+  position: absolute;
+  left: 33.5rem;
+  top: 87.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.landing-pagedesktop-vp3 .auto-group-xx4b-vzf .rectangle-22-Dy5 {
+  width: 65.1rem;
+  height: 24.7rem;
+  position: absolute;
+  left: 58.9rem;
+  top: 87.8rem;
+  background-color: #b6eec4;
+  border-radius: 1.2rem;
+}
+.landing-pagedesktop-vp3 .auto-group-xx4b-vzf .on-peritia-we-currently-offer-a-variety-of-10-active-skills-covering-a-range-from-website-development-and-graphics-design-to-ui-ux-design-and-much-more-you-can-explore-additional-details-on-your-user-dashboard-account-where-the-available-skill-sets-are-displayed-ki7 {
+  width: 47.9rem;
+  height: 14.6rem;
+  position: absolute;
+  left: 64.6rem;
+  top: 94.8rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.landing-pagedesktop-vp3 .auto-group-xx4b-vzf .what-type-of-skills-are-available-9VM {
+  width: 38.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 64.5rem;
+  top: 90.4rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-pagedesktop-vp3 .auto-group-xx4b-vzf .mireille-ngong-F2b {
+  width: 13.6rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 109rem;
+  top: 109rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-pagedesktop-vp3 .auto-group-xx4b-vzf .kwame-adu-boateng-ww1 {
+  width: 19.7rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 103rem;
+  top: 65rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-pagedesktop-vp3 .auto-group-xx4b-vzf .flag-for-flag-cameroon-svgrepo-com-1-fMD {
+  width: 10rem;
+  height: 7.2222rem;
+  position: absolute;
+  left: 53.9rem;
+  top: 108.8889rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-pagedesktop-vp3 .auto-group-xx4b-vzf .rectangle-23-BqM {
+  width: 27.9rem;
+  height: 24.7rem;
+  position: absolute;
+  left: 33.5rem;
+  top: 134.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.landing-pagedesktop-vp3 .auto-group-xx4b-vzf .rectangle-24-vY3 {
+  width: 62.8rem;
+  height: 24.7rem;
+  position: absolute;
+  left: 61.2rem;
+  top: 134.2rem;
+  background-color: #b6eec4;
+  border-radius: 1.2rem;
+}
+.landing-pagedesktop-vp3 .auto-group-xx4b-vzf .given-the-high-costs-associated-with-acquiring-skills-on-different-platforms-weve-reduced-it-to-a-single-payment-of-5-once-this-payment-is-made-individuals-are-required-to-complete-a-peritia-task-for-the-specified-minimum-days-before-gaining-eligibility-for-the-skills-class-TXy {
+  width: 47.2rem;
+  height: 14.6rem;
+  position: absolute;
+  left: 64.7rem;
+  top: 142.6rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.landing-pagedesktop-vp3 .auto-group-xx4b-vzf .what-steps-should-i-take-to-be-eligible-for-skills-courses-UT5 {
+  width: 56.1rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 64.6rem;
+  top: 135.8rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.landing-pagedesktop-vp3 .auto-group-xx4b-vzf .thabo-ndlovu-NYT {
+  width: 13.3rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 109.4rem;
+  top: 155.5rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-pagedesktop-vp3 .auto-group-xx4b-vzf .flag-for-flag-ghana-svgrepo-com-1-5xf {
+  width: 10rem;
+  height: 7.2222rem;
+  position: absolute;
+  left: 53.9rem;
+  top: 64.6889rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-pagedesktop-vp3 .auto-group-xx4b-vzf .south-africa-svgrepo-com-1-QEF {
+  width: 10rem;
+  height: 6.5517rem;
+  position: absolute;
+  left: 53.9rem;
+  top: 154.5241rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-pagedesktop-vp3 .auto-group-v6af-Kc7 {
+  box-sizing: border-box;
+  padding: 1.6rem 2.55rem 1rem 2.55rem;
+  width: 144rem;
+  height: 33.7rem;
+  position: absolute;
+  left: 0;
+  top: 704.7rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #b6eec4;
+}
+.landing-pagedesktop-vp3 .auto-group-v6af-Kc7 .auto-group-ttjh-Cvo {
+  margin: 0rem 10.05rem 3.1rem 0rem;
+  height: 13.7rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.landing-pagedesktop-vp3 .auto-group-v6af-Kc7 .auto-group-ttjh-Cvo .auto-group-ixdm-KkX {
+  margin: 1.589rem 23.95rem 0rem 0rem;
+  width: 23.1rem;
+  flex-shrink: 0;
+}
+.landing-pagedesktop-vp3 .auto-group-v6af-Kc7 .auto-group-ttjh-Cvo .auto-group-ixdm-KkX .peritia-logo-png-1-1-eno {
+  margin: 0rem 0rem 1.38rem 0.534rem;
+  width: 16.5515rem;
+  height: 4.6312rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.landing-pagedesktop-vp3 .auto-group-v6af-Kc7 .auto-group-ttjh-Cvo .auto-group-ixdm-KkX .skills-made-simple-success-amplified-Zum {
+  width: 100%;
+  max-width: 23.1rem;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #0c3436;
+  font-family: Inter, 'Source Sans Pro';
+}
+.landing-pagedesktop-vp3 .auto-group-v6af-Kc7 .auto-group-ttjh-Cvo .auto-group-qt71-5NK {
+  margin: 0.5rem 22.5rem 1.3rem 0rem;
+  height: calc(100% - 1.8rem);
+  row-gap: 1.3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-pagedesktop-vp3 .auto-group-v6af-Kc7 .auto-group-ttjh-Cvo .auto-group-qt71-5NK .about-us-yyV {
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #0c3436;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-pagedesktop-vp3 .auto-group-v6af-Kc7 .auto-group-ttjh-Cvo .auto-group-qt71-5NK .terms-of-service-vdq {
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #0c3436;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-pagedesktop-vp3 .auto-group-v6af-Kc7 .auto-group-ttjh-Cvo .auto-group-qt71-5NK .privacy-policy-U9Z {
+  margin-left: 1.8rem;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #0c3436;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-pagedesktop-vp3 .auto-group-v6af-Kc7 .auto-group-ttjh-Cvo .auto-group-tnjm-zNo {
+  margin-bottom: 6.8rem;
+  box-sizing: border-box;
+  padding: 0.4rem 1.6rem 0.5rem 2.5rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.3rem #ffffff;
+  background-color: #ffffff;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.landing-pagedesktop-vp3 .auto-group-v6af-Kc7 .auto-group-ttjh-Cvo .auto-group-tnjm-zNo .search-JeP {
+  margin: 0rem 16.8rem 0.1rem 0rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-pagedesktop-vp3 .auto-group-v6af-Kc7 .auto-group-ttjh-Cvo .auto-group-tnjm-zNo .rectangle-33-DWT {
+  width: 8.1rem;
+  height: 6rem;
+  background-color: #b6eec4;
+  flex-shrink: 0;
+}
+.landing-pagedesktop-vp3 .auto-group-v6af-Kc7 .auto-group-zce7-v9y {
+  margin: 0rem 119.4rem 8.94rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-pagedesktop-vp3 .auto-group-v6af-Kc7 .auto-group-zce7-v9y .facebook-svgrepo-com-2-EwM {
+  margin: 0rem 0.8rem 0.1rem 0rem;
+  width: 3.2596rem;
+  height: 3.2596rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-pagedesktop-vp3 .auto-group-v6af-Kc7 .auto-group-zce7-v9y .youtube-svgrepo-com-2-ZTq {
+  margin: 0.1rem 0.8rem 0rem 0rem;
+  width: 3.2596rem;
+  height: 3.2596rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-pagedesktop-vp3 .auto-group-v6af-Kc7 .auto-group-zce7-v9y .vector-H8w {
+  margin: 0rem 0.641rem 0.137rem 0rem;
+  width: 2.5476rem;
+  height: 2.5966rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-pagedesktop-vp3 .auto-group-v6af-Kc7 .auto-group-zce7-v9y .telegram-communication-chat-interaction-network-connection-svgrepo-com-2-osy {
+  margin: 0.24rem 1.108rem 0rem 0rem;
+  width: 2.9846rem;
+  height: 2.4665rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-pagedesktop-vp3 .auto-group-v6af-Kc7 .auto-group-zce7-v9y .instagram-1-svgrepo-com-2-WnP {
+  margin-top: 0.0404rem;
+  width: 2.8rem;
+  height: 2.8rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-pagedesktop-vp3 .auto-group-v6af-Kc7 .copyright-2024-3GX {
+  margin-left: 104.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #0c3436;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-pagedesktop-vp3 .page-1-MY7 {
+  width: 3.2rem;
+  height: 3.2139rem;
+  position: absolute;
+  left: 124.2rem;
+  top: 708.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
